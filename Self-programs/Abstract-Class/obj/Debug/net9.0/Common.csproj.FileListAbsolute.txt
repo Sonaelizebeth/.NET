@@ -1,0 +1,15 @@
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.AssemblyInfo.cs
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.sourcelink.json
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\bin\Debug\net9.0\Common.exe
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\bin\Debug\net9.0\Common.deps.json
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\bin\Debug\net9.0\Common.runtimeconfig.json
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\bin\Debug\net9.0\Common.dll
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\bin\Debug\net9.0\Common.pdb
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.dll
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\refint\Common.dll
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.pdb
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\Common.genruntimeconfig.cache
+E:\.NET - Early\.NET\Self-programs\Abstract-Class\obj\Debug\net9.0\ref\Common.dll
